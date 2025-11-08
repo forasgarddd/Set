@@ -1,0 +1,17 @@
+//
+//  SetApp.swift
+//  Set
+//
+//  Created by Ivan Devitskyi on 08/11/2025.
+//
+
+import SwiftUI
+
+@main
+struct SetApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
